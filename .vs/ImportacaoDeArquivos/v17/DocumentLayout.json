@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|c:\\users\\sousa\\onedrive\\documentos\\reposit\u00F3rios\\importacaodearquivos\\importacaodearquivos\\services\\clientefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|solutionrelative:importacaodearquivos\\services\\clientefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|c:\\users\\sousa\\onedrive\\documentos\\reposit\u00F3rios\\importacaodearquivos\\importacaodearquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|solutionrelative:importacaodearquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|c:\\users\\sousa\\onedrive\\documentos\\reposit\u00F3rios\\importacaodearquivos\\importacaodearquivos\\services\\contafilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|solutionrelative:importacaodearquivos\\services\\contafilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|c:\\users\\sousa\\onedrive\\documentos\\reposit\u00F3rios\\importacaodearquivos\\importacaodearquivos\\services\\plasticofilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|solutionrelative:importacaodearquivos\\services\\plasticofilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|c:\\users\\sousa\\onedrive\\documentos\\reposit\u00F3rios\\importacaodearquivos\\importacaodearquivos\\services\\transacaofilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8B3DCF-4E4F-4DFD-9E67-C0585768AED4}|ImportacaoDeArquivos\\ImportacaoDeArquivos.csproj|solutionrelative:importacaodearquivos\\services\\transacaofilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Program.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeArquivos\\Program.cs",
+              "ToolTip": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Program.cs",
+              "RelativeToolTip": "ImportacaoDeArquivos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:21:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransacaoFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\TransacaoFileReader.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeArquivos\\Services\\TransacaoFileReader.cs",
+              "ToolTip": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\TransacaoFileReader.cs",
+              "RelativeToolTip": "ImportacaoDeArquivos\\Services\\TransacaoFileReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:49:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlasticoFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\PlasticoFileReader.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeArquivos\\Services\\PlasticoFileReader.cs",
+              "ToolTip": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\PlasticoFileReader.cs",
+              "RelativeToolTip": "ImportacaoDeArquivos\\Services\\PlasticoFileReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:49:09.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\ContaFileReader.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeArquivos\\Services\\ContaFileReader.cs",
+              "ToolTip": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\ContaFileReader.cs",
+              "RelativeToolTip": "ImportacaoDeArquivos\\Services\\ContaFileReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:49:05.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\ClienteFileReader.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeArquivos\\Services\\ClienteFileReader.cs",
+              "ToolTip": "C:\\Users\\sousa\\OneDrive\\Documentos\\Reposit\u00F3rios\\ImportacaoDeArquivos\\ImportacaoDeArquivos\\Services\\ClienteFileReader.cs",
+              "RelativeToolTip": "ImportacaoDeArquivos\\Services\\ClienteFileReader.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:29:04.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
